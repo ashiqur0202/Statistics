@@ -1,4 +1,4 @@
-# Statistics for Data Scienc 
+# Statistics for Data Science
 
 The basic statistical things to see first from a data set are:
 
